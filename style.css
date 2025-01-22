@@ -1,0 +1,16 @@
+body{
+    background-image: url(colorback.jpg);
+    background-size: cover;
+}
+.color-generator{
+    margin: auto;
+   text-align: center;
+}
+.color-box{
+    height: 15rem;
+    width: 50rem;
+    border: 0.5px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+}
